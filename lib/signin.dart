@@ -33,7 +33,7 @@ class _SigninState extends State<Signin> {
             ),
             Image.asset(
               "C:/Users/17rah/Downloads/111.png",
-              color: Colors.white,
+              color: Colors.white10,
               height: 100,
             ),
             Padding(
